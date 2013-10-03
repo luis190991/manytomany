@@ -1,0 +1,2 @@
+== README
+Este es un ejemplo de una aplicacion en Rails con una relacion de muchos a muchos.
